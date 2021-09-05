@@ -2,7 +2,7 @@
 python study
 
 
-파이썬 기초의 모든것 \n
+파이썬 기초의 모든것
 https://www.youtube.com/watch?v=g320D427-cY&list=PLDtzZPtOGenaG_LeSAHpr4opgz0HebcwJ
 
 코인 시스템 트레이딩
