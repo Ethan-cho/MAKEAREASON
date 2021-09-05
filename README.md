@@ -1,6 +1,9 @@
 # MAKEAREASON
 python study
 
+Git으로 시작하는 협업 및 오픈소스 프로젝트
+
+https://www.youtube.com/watch?v=rhP5pseOJc0&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81
 
 파이썬 기초의 모든것
 
